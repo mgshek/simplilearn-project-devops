@@ -3,4 +3,3 @@ public class class3 {
         System.out.println("SimpliLearn");
     }
 }
-    
