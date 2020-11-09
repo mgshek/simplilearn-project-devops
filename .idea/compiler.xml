@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="simplilearn-project" />
+        <module name="simplilearn-project-devops" />
       </profile>
     </annotationProcessing>
   </component>
