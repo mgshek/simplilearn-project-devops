@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac22c5d4-5729-4d88-9d0c-bbdaf034eadf" name="Default Changelist" comment="Final Commit to Docker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605058787147</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final Commit to Docker">
+      <created>1605058953285</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605058953285</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,15 +127,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit to Docker" />
     <option name="LAST_COMMIT_MESSAGE" value="Final Commit to Docker" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="195" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1605058790205">
+    <state x="555" y="195" width="806" height="530" key="Vcs.Push.Dialog.v2" timestamp="1605058956661">
       <screen x="0" y="31" width="1920" height="857" />
     </state>
-    <state x="555" y="195" width="806" height="530" key="Vcs.Push.Dialog.v2/0.31.1920.857@0.31.1920.857" timestamp="1605058790205" />
+    <state x="555" y="195" width="806" height="530" key="Vcs.Push.Dialog.v2/0.31.1920.857@0.31.1920.857" timestamp="1605058956661" />
   </component>
 </project>
